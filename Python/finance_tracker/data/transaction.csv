@@ -1,0 +1,15 @@
+user_name	type	category	amount	date
+ma.tvk	EXPENSE	Bills	-2500	16-05-2025 16:40
+ma.tvk	EXPENSE	Medicines	-1000	17-05-2025 14:14
+ma.tvk	EXPENSE	Food	-800	17-05-2025 14:15
+ma.tvk	EXPENSE	Others	-100	17-05-2025 14:24
+ma.tvk	INCOME	Others	2000	17-05-2025 11:47
+ma.tvk	INCOME	Others	5500	16-05-2025 19:43
+ma.tvk	INCOME	Business	15000	16-05-2025 16:39
+ma.tvk	INCOME	Finance	100000	16-05-2025 16:01
+sel.j	INCOME	Business	100000	16-05-2025 19:39
+sai.c	INCOME	Job	120000	16-05-2025 16:58
+ma.tvk	INCOME	Business	2300	17-05-2025 15:31
+prag.k	INCOME	Job	90000	17-05-2025 14:43
+prag.k	INCOME	Finance	100	17-05-2025 14:46
+ma.tvk	INCOME	Others	200	17-05-2025 15:27
